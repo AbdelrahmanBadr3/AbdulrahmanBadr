@@ -83,7 +83,7 @@
   },
   "proxy": "http://localhost:5000",
   "devDependencies": {
-    "axios": "^0.18.0",
+     "axios": ">=0.21.1",
     "nodemon": "^1.18.11",
     "test": "^0.6.0"
   }
