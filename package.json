@@ -34,7 +34,7 @@
     "dotenv": "^7.0.0",
     "ejs": "^2.5.7",
     "express": "^4.16.4",
-    "express-handlebars": "^3.0.2",
+    "express-handlebars": "^5.3.1",
     "firebase": "^5.10.0",
     "font-awesome": "^4.7.0",
     "joi": "^14.3.1",
